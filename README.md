@@ -40,6 +40,8 @@ start index.html # Windows
 xdg-open index.html # Linux
 ```
 
+> **Note:** This repository was repurposed from a Solidity smart contract project to host the Memory Match game.
+
 Or use a local server:
 
 ```bash
@@ -59,8 +61,7 @@ Then navigate to `http://localhost:8000` in your browser.
 ├── index.html    # Main HTML structure
 ├── styles.css    # CSS styling and animations
 ├── game.js       # Game logic and interactivity
-├── README.md     # This file
-└── STC-1.sol     # (Legacy file - can be ignored)
+└── README.md     # This file
 ```
 
 ## 🎨 Customization
