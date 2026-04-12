@@ -200,3 +200,8 @@ STC-1 builds on these ideas but does not claim compatibility with any existing s
 ## License
 
 MIT License — free to use, extend, and implement.
+
+
+## Contributing
+
+Pull requests are welcome. For major changes, please open an issue first.
