@@ -52,7 +52,7 @@ The goal is interoperability, auditability, and long-term compatibility with reg
 ### 1. ERC-20 Compatibility
 STC-1 tokens:
 - expose standard ERC-20 balance and transfer functions
-- emit ERC-20 `Transfer` and `Approval` events
+- emit ERC-20 `Transfer` and `Approval` eventsts
 - remain indexable by existing Ethereum tooling
 
 This ensures ecosystem compatibility while extending functionality.
