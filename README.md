@@ -19,6 +19,8 @@ They lack first-class support for:
 - entitlement calculations
 - compliance-aware transfers
 
+This creates friction when implementing equity tokens on-chain.
+
 STC-1 addresses this gap by defining **what a stock token must expose**, without prescribing **how** it must be implemented.
 
 The goal is interoperability, auditability, and long-term compatibility with regulated financial infrastructure.
