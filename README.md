@@ -32,6 +32,9 @@ The goal is interoperability, auditability, and long-term compatibility with reg
 - **Compatibility first**  
   STC-1 preserves ERC-20 semantics so existing wallets, indexers, and exchanges can integrate with minimal friction.
 
+- **Regulatory alignment**  
+  STC-1 accommodates compliance-aware transfers and issuer disclosures required by financial regulators.
+
 - **Interface, not policy**  
   The standard defines *what must exist*, not *how rules are enforced*.  
   Identity, compliance, custody, and governance models are implementation choices.
