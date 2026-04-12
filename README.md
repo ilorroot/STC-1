@@ -205,3 +205,6 @@ MIT License — free to use, extend, and implement.
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first.
+
+
+<!-- Last reviewed: 2026-04-12 -->
