@@ -128,7 +128,7 @@ This allows on-chain linkage to prospectuses, notices, and shareholder communica
 
 ---
 
-### 8. Custody & Beneficial Ownership Hooks
+### 8. Custody & Beneficial Ownershipneficial Ownership Hooks
 STC-1 exposes:
 - `beneficialOwnerOf(...)` for custody/nominee models
 
